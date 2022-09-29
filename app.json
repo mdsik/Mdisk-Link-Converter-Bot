@@ -7,7 +7,7 @@
         "shortner"
     ],
     "website": "https://github.com/CyniteOfficial/Mdisk-Link-Converter-Bot",
-    "repository": "https://github.com/CyniteOfficial/Mdisk-Link-Converter-Bot",
+    "repository": "https://github.com/GreyMatter658/Mdisk-Link-Converter-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
